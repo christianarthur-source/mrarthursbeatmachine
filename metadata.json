@@ -1,0 +1,10 @@
+{
+  "name": "BeatBlast Junior - Kids Beat Maker & Sound Lab",
+  "description": "An interactive, colorful beat maker and sound sample lab designed for elementary school kids with playful rhythms, voice recording, fun sound packs, and live pads.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
